@@ -1,0 +1,99 @@
+.header{
+	width: 100%;
+	
+}
+
+.meny{
+	padding: 12%;
+	
+}
+
+a {
+
+	background-color: #FFF0F2;
+	padding: 3%;
+
+	text-align: center;
+	text-decoration: none;
+    color: #78adc2;
+    font-family: verdana;
+    
+
+}
+
+.hover:hover{
+	background-color: #e5c1c6;
+}
+/*
+#menu:hover {
+    background-color: #e5c1c6;
+
+
+
+}*/
+
+.nordreskoyen{
+	max-width: 500px;
+}
+
+.link2{
+	background-color: #e6f7ff;
+	font-size: 16px;
+}
+
+.link2:hover{
+	background-color: #cde7f0;
+}
+
+figure figcaption{
+	color: #78adc2;
+    font-family: verdana;
+    font-size: 16px;
+}
+
+#NewInformation {
+	text-align: center; 
+	background-color: #e6f7ff;
+	padding: 10%;
+	font-size: 20px;
+	color: teal;
+}
+
+#accomodation {
+	text-align: center; 
+	background-color: #bddfeb;
+	padding: 10%;
+}
+
+#contact {
+	text-align: center; 
+	background-color: #cde7f0;
+	padding: 10%;
+}
+#dinner {
+	text-align: center; 
+	background-color: #deeff5;
+	padding: 10%;
+}
+#wishlist {
+	text-align: center; 
+	background-color: #ffd9df;
+	padding: 10%;
+}
+
+#other {
+	text-align: center; 
+	background-color: #fff2f4;
+	padding: 10%;
+}
+
+@media screen and (max-width: 414px){
+
+.meny{
+	max-width: 30%;
+	padding:10px;
+
+}
+
+
+}
